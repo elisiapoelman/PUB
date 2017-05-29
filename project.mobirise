@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ABOUT.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 32,
     "versionPublish": "3.12.1",
@@ -208,7 +208,7 @@
             }
           },
           "title": "",
-          "text": "<span style=\"line-height: 1.5;\">V I S U AL&nbsp;</span><br>A R T I S T",
+          "text": "<span style=\"line-height: 1.5;\">V I S U A L&nbsp;</span><br>A R T I S T",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             "P": {
