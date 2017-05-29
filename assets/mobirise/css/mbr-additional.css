@@ -481,11 +481,15 @@ h6,
 #footer1-d P {
   color: #000000;
 }
+#msg-box5-u P {
+  font-size: 46px;
+}
 #social-buttons1-f .mbr-section-title {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
+
 
 
 
@@ -560,72 +564,10 @@ h6,
 #features3-m SPAN {
   font-size: 12px;
 }
-
-
-#menu-7 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-7 .navbar-caption {
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-}
-#menu-7 .navbar-toggler {
-  color: #000000;
-}
-#menu-7 .close-icon::before,
-#menu-7 .close-icon::after {
-  background-color: #000000;
-}
-#menu-7 .link,
-#menu-7 .dropdown-item {
-  color: #000000;
+#features3-o H4 {
   font-family: 'Raleway', sans-serif;
 }
-#menu-7 .link {
-  font-size: 1.05rem;
-}
-#menu-7 .dropdown-item,
-#menu-7 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
-}
-#menu-7 .link:hover,
-#menu-7 .dropdown-item:hover,
-#menu-7 .link:focus,
-#menu-7 .dropdown-item:focus {
-  color: #000000;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-7 .nav-dropdown-sm .link:focus,
-#menu-7 .nav-dropdown-sm .link:hover,
-#menu-7 .nav-dropdown-sm .dropdown-item:focus,
-#menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-7 .navbar,
-#menu-7 .nav-dropdown-sm,
-#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-7 .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-7 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-7 .bg-color.transparent.opened .link:hover,
-#menu-7 .bg-color.transparent.opened .link:focus {
-  color: #000000;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
-}
+
 
 
 #menu-c .hide-buttons .nav-btn {
@@ -694,6 +636,14 @@ h6,
 }
 #footer1-d P {
   color: #000000;
+}
+#msg-box5-v H3 {
+  font-size: 14px;
+  text-align: left;
+}
+#msg-box5-v SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
 }
 
 
